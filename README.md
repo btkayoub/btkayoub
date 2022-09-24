@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayoub Benterki</h1>
 <h3 align="center">A passionate solidity developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.341fa593231a51ec55f7e3924ab6acdc?rik=dyIGxgEPYWTdfA&riu=http%3a%2f%2fwww.generalplan.com.cn%2fwp-content%2fuploads%2f2018%2f04%2fmenco2.jpg&ehk=b%2fFiPWskaQNsjf0bsbxbZNKQ1cJDkanS1R05dMAr7%2bU%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" src="blob:https://www.facebook.com/bcbb2627-c33c-4efb-b398-07a7f64c8d45">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btkayoub&label=Profile%20views&color=0e75b6&style=flat" alt="btkayoub" /> </p>
 
